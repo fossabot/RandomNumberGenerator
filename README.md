@@ -4,6 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAitorAstorga%2FRandomNumberGenerator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAitorAstorga%2FRandomNumberGenerator?ref=badge_shield)
 
 
 <!-- PROJECT LOGO -->
@@ -65,6 +66,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAitorAstorga%2FRandomNumberGenerator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAitorAstorga%2FRandomNumberGenerator?ref=badge_large)
+
 ## About The Project
 
 This project is about creating a simple yet powerful random number generator using the Ionic framework. It's designed to be user-friendly and highly customizable, allowing users to specify the range and criteria for number generation.
